@@ -6,7 +6,7 @@ J'ai commencé en tant que **DEVELOPPEUR**. Après plusieurs années à dévelop
 
 Je partagerai avec vous, mon évolution dans le milieu à travers des **CTFs**, découvertes d'outils, etc...
 
-Vous pourrez bientôt me rejoindre sur ma chaîne YOUTUBE qui est en cours de création.
+Vous pourrez bientôt me rejoindre sur ma chaîne **YOUTUBE** qui est en cours de création.
 
 Et tout ça en Français 🙂
 
